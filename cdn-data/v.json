@@ -2,12 +2,14 @@
   {
     "identification": {
       "msg": "The Ruffle CDN Works!",
-      "id": "swf"
+      "id": "swf",
+      "extension": ".swf"
     },
     "cdn": {
       "folder": "cdn-data",
       "img": "swf.png",
       "json": "g.json"
+      "assets": "false"
     },
     "json": {
       "title": "name",
