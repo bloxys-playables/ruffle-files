@@ -1,2 +1,2 @@
-# ruffle-files
-All Ruffle (.swf) files
+# Ruffle Game Files
+These Are Flash Games
