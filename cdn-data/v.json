@@ -9,7 +9,7 @@
       "img": "swf.png",
       "json": "g.json"
     },
-      "json": {
+    "json": {
       "title": "name",
       "list": "order",
       "identifier": "id",
