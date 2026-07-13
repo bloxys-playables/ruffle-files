@@ -1,6 +1,19 @@
 [
   {
-    "msg": "CDN Works",
-    "id": "swf"
+    "identification": {
+      "msg": "The Ruffle CDN Works!",
+      "id": "swf"
+    },
+    "cdn": {
+      "folder": "cdn-data",
+      "img": "swf.png",
+      "json": "g.json"
+    },
+      "json": {
+      "title": "name",
+      "list": "order",
+      "identifier": "id",
+      "group": "type"
+    }
   }
 ]
