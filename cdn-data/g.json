@@ -115,5 +115,8 @@
   { "name": "Bubble Tanks Tower Defense", "id": "bbttd", "order": 114, "type": "Bubble Tanks" },
   { "name": "Bubble Shooter", "id": "bbsht", "order": 115, "type": "Bubble Shooter" },
   { "name": "Cat Mario", "id": "ctmro", "order": 116, "type": "Cat Mario" },
-  { "name": "Checkers", "id": "chckr", "order": 117, "type": "Checkers" }
+  { "name": "Checkers", "id": "chckr", "order": 117, "type": "Checkers" },
+  { "name": "Run 1", "id": "run1x", "order": 118, "type": "Run" },
+  { "name": "Scary Maze Game", "id": "scmgg", "order": 119, "type": "Scary Maze Game" },
+  { "name": "Super Mario 63", "id": "sssmm", "order": 120, "type": "Super Mario (Flash)" }
 ]
